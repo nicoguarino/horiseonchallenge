@@ -11,7 +11,7 @@
 
 ## About <a name = "about"></a>
 
-Horiseon website main objective is to display the capabiltiies that the Horiseon Team has to offer. It promotes their abilibies to help a client improve their search engin optimization, help provide reputation managment, and create a strong social media presence. The website expresses the a brief summary of how the team will create lead generation and bring awareness to a clients brand that will in term create organic seaches  by comsummers. 
+The Horiseon website's main objective is to display the capabiltiies that the Horiseon Team has to offer. It promotes their abilibies to help a client improve their search engin optimization, help provide reputation managment, and create a strong social media presence. The website expresses the a brief summary of how the team will create lead generation and bring awareness to a clients brand that will in term create organic seaches  by comsummers. 
 
 ## Getting Started <a name = "getting-started"></a>
 
