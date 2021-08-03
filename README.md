@@ -20,7 +20,7 @@ The Horiseon website's main objective is to display the capabiltiies that the Ho
 
 ## Code Sample <a name = "code-sample"></a>
 
-![Sample Code](https://github.com/nicoguarino/horiseonchallenge/blob/main/Develop/assets/images/sample_code.png?raw=true "Sample Code")
+![Sample Code](https://github.com/nicoguarino/horiseonchallenge/blob/main/assets/images/sample_code.png?raw=true "Sample Code")
 
 ### Sample Code
 ```HTML Sample
